@@ -19,7 +19,7 @@ Bert模型需要大家自行下载
 
 使用THUCNews的一个子集进行训练与测试，数据集请自行到[THUCTC：一个高效的中文文本分类工具包](http://thuctc.thunlp.org/)下载，请遵循数据提供方的开源协议。
 
-本次训练使用了其中的10个分类，每个分类5000条数据。
+本次训练使用了其中的10个分类，每个分类5000条数据。相关数据下载地址：链接: https://pan.baidu.com/s/1GmBFZfDKsXBMFEYQWFdrfQ 提取码: 9ixg 
 
 类别如下：
 
